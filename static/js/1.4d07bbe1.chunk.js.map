@@ -1,0 +1,1 @@
+{"version":3,"sources":["Example2.jsx"],"names":["Example"],"mappings":"sIAAA,2BAMeA,UAJC,kBACd","file":"static/js/1.4d07bbe1.chunk.js","sourcesContent":["import React from 'react';\n\nconst Example = () => (\n  <div>Example 2</div>\n);\n\nexport default Example;\n"],"sourceRoot":""}

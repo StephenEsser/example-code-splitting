@@ -1,0 +1,1 @@
+{"version":3,"sources":["Example3.jsx"],"names":["Example"],"mappings":"sIAAA,2BAMeA,UAJC,kBACd","file":"static/js/2.baae6374.chunk.js","sourcesContent":["import React from 'react';\n\nconst Example = () => (\n  <div>Whoops, this is the fallback example. Please update the url to /?example=1 or /?example=2</div>\n);\n\nexport default Example;\n"],"sourceRoot":""}

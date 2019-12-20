@@ -1,0 +1,25 @@
+{
+  "files": {
+    "static/js/0.a15f9a3b.chunk.js": "/example-code-splitting/static/js/0.a15f9a3b.chunk.js",
+    "static/js/0.a15f9a3b.chunk.js.map": "/example-code-splitting/static/js/0.a15f9a3b.chunk.js.map",
+    "static/js/1.4d07bbe1.chunk.js": "/example-code-splitting/static/js/1.4d07bbe1.chunk.js",
+    "static/js/1.4d07bbe1.chunk.js.map": "/example-code-splitting/static/js/1.4d07bbe1.chunk.js.map",
+    "static/js/2.baae6374.chunk.js": "/example-code-splitting/static/js/2.baae6374.chunk.js",
+    "static/js/2.baae6374.chunk.js.map": "/example-code-splitting/static/js/2.baae6374.chunk.js.map",
+    "main.js": "/example-code-splitting/static/js/main.2eccda2f.chunk.js",
+    "main.js.map": "/example-code-splitting/static/js/main.2eccda2f.chunk.js.map",
+    "runtime-main.js": "/example-code-splitting/static/js/runtime-main.85fe6e14.js",
+    "runtime-main.js.map": "/example-code-splitting/static/js/runtime-main.85fe6e14.js.map",
+    "static/js/5.684f8fa3.chunk.js": "/example-code-splitting/static/js/5.684f8fa3.chunk.js",
+    "static/js/5.684f8fa3.chunk.js.map": "/example-code-splitting/static/js/5.684f8fa3.chunk.js.map",
+    "index.html": "/example-code-splitting/index.html",
+    "precache-manifest.1f4f93533deb1b308410d30631634430.js": "/example-code-splitting/precache-manifest.1f4f93533deb1b308410d30631634430.js",
+    "service-worker.js": "/example-code-splitting/service-worker.js",
+    "static/js/5.684f8fa3.chunk.js.LICENSE": "/example-code-splitting/static/js/5.684f8fa3.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85fe6e14.js",
+    "static/js/5.684f8fa3.chunk.js",
+    "static/js/main.2eccda2f.chunk.js"
+  ]
+}
