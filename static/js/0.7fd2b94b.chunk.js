@@ -1,0 +1,2 @@
+(this["webpackJsonpexample-code-splitting"]=this["webpackJsonpexample-code-splitting"]||[]).push([[0],{5:function(e,t,a){"use strict";a.r(t);var n=a(0),i=a.n(n);t.default=function(){return i.a.createElement("div",null,"Example 1",i.a.createElement("iframe",{src:"?example=2",title:"happy hacking"}))}}}]);
+//# sourceMappingURL=0.7fd2b94b.chunk.js.map
