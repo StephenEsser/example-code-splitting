@@ -1,7 +1,14 @@
 import React from 'react';
 
 const Example = () => (
-  <div>Whoops, this is the fallback example. Please update the url to /?example=1 or /?example=2</div>
+  <div>
+    <p>
+      Welcome to the code splitting example. This is the fallback page.
+    </p>
+    <p>
+      Please navigate to <a href="?example=1">Example 1</a> or <a href="?example=2">Example 2</a>
+    </p>
+  </div>
 );
 
 export default Example;
