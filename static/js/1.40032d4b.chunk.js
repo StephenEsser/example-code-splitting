@@ -1,0 +1,2 @@
+(this["webpackJsonpexample-code-splitting"]=this["webpackJsonpexample-code-splitting"]||[]).push([[1],{6:function(e,t,a){"use strict";a.r(t);var l=a(0),n=a.n(l);t.default=function(){return n.a.createElement("div",null,n.a.createElement("p",null,"Welcome to Example 2."),n.a.createElement("p",null,"Update the url params to ?example=1 to navigate back to Example 1."))}}}]);
+//# sourceMappingURL=1.40032d4b.chunk.js.map
